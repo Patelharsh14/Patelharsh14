@@ -84,6 +84,24 @@ B.Tech IT, Rai University (GPA 8.5)  →  Software Dev  →  Full Stack Dev
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Patelharsh14&theme=github-dark-blue&hide_border=true&background=060D18&stroke=123049&ring=3DFFB0&fire=FF2E8F&currStreakLabel=3DFFB0" alt="Streak stats" width="70%" />
 
 </div>
+
+<details open>
+<summary><b>🏆 GitHub Achievements</b></summary>
+<br/>
+<div align="center">
+
+| 🏆 Achievement | Count |
+|:---:|:---:|
+| **Total Commits** | 50 |
+| **Total Stars** | 0 |
+| **Total PRs** | 0 |
+| **Total Issues** | 1 |
+| **Contributed to** | 10 repos |
+| **Public Repos** | 14 |
+
+</div>
+</details>
+
 <br/>
 
 ## 🚀 Featured Builds
