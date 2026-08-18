@@ -76,7 +76,7 @@ B.Tech IT, Rai University (GPA 8.5)  →  Software Dev  →  Full Stack Dev
 <summary><b>🏆 Trophy case</b></summary>
 <br/>
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Patelharsh14&theme=algolia&no-frame=true&column=6&margin-w=8&margin-h=8" alt="Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=Patelharsh14&theme=algolia&no-frame=true&no-bg=true&column=6&margin-w=8&margin-h=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="Trophies" />
 </div>
 </details>
 
@@ -124,7 +124,11 @@ Product browsing, auth, cart, and order flow for Android & web.
 ## 🐍 Contribution Graph
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Patelharsh14/Patelharsh14/output/github-contribution-grid-snake.svg" alt="Snake contribution graph" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Patelharsh14/Patelharsh14/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Patelharsh14/Patelharsh14/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Patelharsh14/Patelharsh14/output/github-contribution-grid-snake.svg">
+</picture>
 </div>
 
 <br/>
