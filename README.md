@@ -8,39 +8,66 @@
 
 </div>
 
-## About me
+## Hi, I’m Harsh
 
-I’m **Harsh Bagadiya**, a Full Stack Developer at **KRISHNA OUTSOURCING** in Ahmedabad, India. I build responsive web and mobile products, useful automation, and practical AI-powered solutions.
+I’m a **Full Stack Developer** at **KRISHNA OUTSOURCING**, based in Ahmedabad, India. I turn product ideas into responsive web and mobile applications, and enjoy solving real workflow problems with automation and AI.
 
-- 🔭 Working with React, Node.js, TypeScript, MongoDB, Python, and REST APIs
-- 🧠 Exploring AI, computer vision, model training, and automation with PyRevit
-- 🎓 B.Tech in Information Technology — Rai University (GPA: 8.5)
-- 💬 Ask me about full-stack development, Flutter, APIs, and automation
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>What I do</h3>
+      <ul>
+        <li>Build scalable React and Node.js applications</li>
+        <li>Design reliable REST APIs and database-backed features</li>
+        <li>Create Flutter mobile experiences</li>
+        <li>Automate repetitive workflows with Python and PyRevit</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Currently focused on</h3>
+      <ul>
+        <li>AI and computer vision</li>
+        <li>Full-stack product development</li>
+        <li>Clean architecture and performance</li>
+        <li>Practical, user-first software</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-## Tech I work with
+## Core stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,typescript,javascript,python,mongodb,flutter,firebase,java,git,github,vscode&perline=12" alt="Technology icons" />
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,typescript,javascript,python,mongodb,flutter,firebase,java,git,github,vscode&perline=12" alt="React, Node.js, TypeScript, JavaScript, Python, MongoDB, Flutter, Firebase, Java, Git, GitHub, VS Code" />
 </p>
 
-## Selected projects
+## Featured work
 
-| Project | What I built | Stack |
-| --- | --- | --- |
-| [Portfolio Website](https://profolio-site-sooty.vercel.app/) | A responsive portfolio for projects, experience, and skills. | React · TypeScript · Tailwind · Vercel |
-| [Blood Donation App](https://github.com/Patelharsh14/blood-donation-app) | Cross-platform donor registration, search, and real-time blood requests. | Flutter · Firebase · REST API |
-| [Indian Fashion Shopping App](https://github.com/Patelharsh14) | A responsive shopping experience with authentication, cart, and orders. | Flutter · Firebase · Dart |
-| Dragon Ball Fighter Game | A 2D fighting game with animated characters, health bars, menus, and scene transitions. | Unity · C# |
+### [Portfolio Website](https://profolio-site-sooty.vercel.app/)
+Responsive portfolio website designed to present my projects, technical skills, experience, and contact information with a fast, modern user experience.  
+`React` `TypeScript` `Tailwind CSS` `Vercel`
 
-## GitHub activity
+### [Blood Donation App](https://github.com/Patelharsh14/blood-donation-app)
+Cross-platform app for donor registration, blood-group search, and real-time blood-request management.  
+`Flutter` `Firebase` `Dart` `REST API`
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Patelharsh14&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&text_color=8b949e&icon_color=58a6ff&title_color=58a6ff" alt="Harsh's GitHub statistics" height="165" />
-  <img src="https://streak-stats.demolab.com?user=Patelharsh14&hide_border=true&background=00000000&ring=58a6ff&fire=ff8a65&currStreakLabel=58a6ff" alt="Harsh's contribution streak" height="165" />
-</p>
+### Indian Fashion Shopping App
+Shopping experience with product browsing, authentication, cart management, and order flow for Android and web.  
+`Flutter` `Firebase` `Dart`
+
+### Dragon Ball Fighter Game
+2D fighting game featuring character animations, health bars, menus, and gameplay transitions.  
+`Unity` `C#`
+
+## Beyond code
+
+- 🎓 B.Tech in Information Technology, Rai University — **GPA 8.5**
+- 🏆 Participant, SSIP Hackathon 2023
+- 🌐 Gujarati · Hindi · English
 
 <div align="center">
 
-<sub>Building useful software, one thoughtful commit at a time.</sub>
+<b>Let’s build something useful.</b><br />
+<a href="https://www.linkedin.com/in/harsh-bagadiya-41b421259/">Connect on LinkedIn</a> · <a href="mailto:harshbagadiya.ce@gmail.com">Email me</a>
 
 </div>
