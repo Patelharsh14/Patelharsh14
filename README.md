@@ -65,8 +65,10 @@ B.Tech IT, Rai University (GPA 8.5)  →  Software Dev  →  Full Stack Dev
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Patelharsh14&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=060D18&title_color=3DFFB0&icon_color=7C5CFF&text_color=C9D9E8&include_all_commits=true)](https://github.com/Patelharsh14)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Patelharsh14&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=060D18&title_color=3DFFB0&text_color=C9D9E8&langs_count=8)](https://github.com/Patelharsh14)
+<a href="https://github.com/Patelharsh14">
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Patelharsh14&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=060D18&title_color=3DFFB0&icon_color=7C5CFF&text_color=C9D9E8&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Patelharsh14&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=060D18&title_color=3DFFB0&text_color=C9D9E8&langs_count=8"/>
+</a>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Patelharsh14&theme=github-dark-blue&hide_border=true&background=060D18&stroke=123049&ring=3DFFB0&fire=FF2E8F&currStreakLabel=3DFFB0" alt="Streak stats" width="70%" />
 
@@ -77,7 +79,7 @@ B.Tech IT, Rai University (GPA 8.5)  →  Software Dev  →  Full Stack Dev
 <br/>
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Patelharsh14&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Patelharsh14&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 </details>
