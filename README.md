@@ -89,7 +89,9 @@ B.Tech IT, Rai University (GPA 8.5)  →  Software Dev  →  Full Stack Dev
 <summary><b>🏆 Trophy case</b></summary>
 <br/>
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Patelharsh14&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies"/>
+
+![](https://github-profile-trophy.vercel.app/?username=Patelharsh14&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 </div>
 </details>
 
