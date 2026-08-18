@@ -84,17 +84,6 @@ B.Tech IT, Rai University (GPA 8.5)  →  Software Dev  →  Full Stack Dev
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Patelharsh14&theme=github-dark-blue&hide_border=true&background=060D18&stroke=123049&ring=3DFFB0&fire=FF2E8F&currStreakLabel=3DFFB0" alt="Streak stats" width="70%" />
 
 </div>
-
-<details>
-<summary><b>🏆 Trophy case</b></summary>
-<br/>
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=Patelharsh14&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-</div>
-</details>
-
 <br/>
 
 ## 🚀 Featured Builds
